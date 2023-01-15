@@ -13,10 +13,12 @@ export default function Banner() {
               />
             </span>
             <p className="ml-3 truncate font-medium text-white">
-              <span className="md:hidden">You're going to waste money!</span>
+              <span className="md:hidden">
+                You&apos;re going to waste money!
+              </span>
               <span className="hidden md:inline">
-                Big news! We're excited to announce that you're going to waste
-                money.
+                Big news! We&apos;re excited to announce that you&apos;re going
+                to waste money.
               </span>
             </p>
           </div>
